@@ -1,1 +1,6 @@
-<div align=“justify”> <a href=“https://github.com/LucasMendes97”> <img src=“https://github-readme-stats.vercel.app/api?username=LucasMendes97&show_icons=true&theme=dark&count_private=true&custom_title=Meus%20Dados”/> <img src=“https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMendes97&layout=compact&langs_count=8&theme=dark&custom_title=Linguagens%20Mais%20Usadas”/> </a> </div>
+<div align="justify">
+  <a href="https://github.com/LucasMendes97">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LucasMendes97&show_icons=true&theme=dark&count_private=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMendes97&layout=compact&langs_count=8&theme=dark"/>
+  </a>
+</div>
